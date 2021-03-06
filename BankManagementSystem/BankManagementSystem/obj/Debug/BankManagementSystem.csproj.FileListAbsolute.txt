@@ -1,0 +1,7 @@
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csprojAssemblyReference.cache
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\Training\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
